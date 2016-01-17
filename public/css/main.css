@@ -1,0 +1,161 @@
+* {
+	margin:0px;
+}
+
+html,body {
+	margin:0;
+	padding:0;
+}
+
+.container {
+	height:100%;
+	min-height: 100%;
+	position:relative;
+
+}
+
+.navbar-nav li a {
+	font-weight: bold;
+}
+
+
+body {
+    padding-top: 40px; !important
+    margin:0px auto;
+}
+ 
+.form-signup, .form-signin {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.bb {
+	margin-bottom: 10px;
+}
+
+.bbb {
+	margin-bottom: 30px;
+	margin-top: 90px;
+}
+
+p.bg {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.vv {
+
+	float:right;
+	margin-top: -49px;
+}
+
+.rr {
+
+	margin-left: 10px;
+}
+
+.ttcen {
+	text-align:center;
+	margin-left: -90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.navbar-default {
+
+	margin-top: -20px;
+}
+
+#footer {
+    background: #337ab7;
+    border-top: 1px solid #000;
+    color: #FFF;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.6);
+    margin:0px auto;
+    margin-top: 25px;
+    height: 40px;
+}
+
+.footerp {
+	text-align: center;
+	margin-top: 10px;
+}
+
+#example {
+	margin-bottom: 0px;
+}
+
+
+b .profilegallery {
+	text-align: center;
+}
+
+b .nameprofile {
+	float:right;
+	margin-top: 103px;
+    margin-right: -126px;
+}
+
+.pvv {
+
+	float:right;
+	margin-top: -96px;
+}
+
+p.name_profile {
+	float:right;
+	margin-top: 55px;
+    margin-right: -126px;
+}
+
+input.fname,.lname{
+
+color:#000; 
+font-family:Tahoma, Geneva, sans-serif; 
+font-size:16px; 
+background-color:#FFF; 
+outline:none; 
+border:none; 
+border-style: none; 
+}
+
+input.email{
+
+color:#000; 
+font-family:Tahoma, Geneva, sans-serif; 
+font-size:16px; 
+background-color:#FFF; 
+outline:none; 
+border:none; 
+border-style: none; 
+width : 216px;
+}
+
+span.editsuccess {
+	cursor: pointer;
+}
+
+.ff {
+
+font-family:Tahoma, Geneva, sans-serif; 
+font-size:16px; 
+
+}
+
+#editlink1 {
+	float: left;
+    margin-left: 318px;
+    margin-top: -122px;
+    font-size: 17px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.row {
+	    margin-bottom: 70px;
+}
+
+a.anone {
+	text-decoration: none;
+}
+
